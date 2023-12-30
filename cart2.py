@@ -1,2 +1,2 @@
 def cart2():
-    print("cartcart")
+    print("I love cart!")
