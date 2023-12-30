@@ -1,0 +1,2 @@
+def piro():
+    print("PiroPiro")
